@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+build/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Docker
+*.log
+.docker/
+
+# System
+.DS_Store
